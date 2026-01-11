@@ -1,0 +1,16 @@
+#+TITLE: Inbox
+
+* TODO Test task from inbox
+SCHEDULED: <2025-01-10 Fri>
+This is a test task to verify the API works.
+
+* TODO Another test task
+DEADLINE: <2025-01-15 Wed>
+:PROPERTIES:
+:CREATED: [2025-01-10 Fri]
+:END:
+This task has a deadline.
+
+* DONE Completed task
+CLOSED: [2025-01-09 Thu]
+This task is already done.
